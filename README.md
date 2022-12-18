@@ -18,14 +18,14 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=tanzim2000&show_icons=true&count_private=true&theme=dark&hide=stars&theme=github_dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=tanzim2000&show_icons=true&count_private=true&theme=github_dark&hide=stars,issues"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=tanzim2000&show_icons=true&count_private=true&hide=stars&theme=swift"
+  srcset="https://github-readme-stats.vercel.app/api?username=tanzim2000&show_icons=true&count_private=true&theme=swift&hide=stars,issues"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=tanzim2000&show_icons=true&count_private=true&hide=stars" />
+<img src="https://github-readme-stats.vercel.app/api?username=tanzim2000&show_icons=true&count_private=true&hide=stars,issues" />
 </picture>
 
 <!---
