@@ -1,5 +1,6 @@
 <h1 align="center">Yo, It's Tanzim here!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 
+[![Github](https://img.shields.io/github/followers/tanzim2000?label=Follow&style=social)](https://github.com/tanzim2000)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -8,36 +9,41 @@
 <strong>Skills</strong>
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=yellow)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-6F8FAF?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![COBOL](https://img.shields.io/badge/-COBOL-brightgreen?style=for-the-badge)
 
+<div align="center"> 
+<!--- GitHub Status Panel --->
 <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=tanzim2000&show_icons=true&count_private=true&theme=github_dark&hide=stars,issues&border_color=00000000"
-  media="(prefers-color-scheme: dark)"
-/>
 <source
-        srcset="https://github-readme-stats.vercel.app/api?username=tanzim2000&show_icons=true&count_private=true&theme=swift&hide=stars,issues"
+        srcset="https://github-readme-stats.vercel.app/api?username=tanzim2000&border_color=00000000&show_icons=true&count_private=true&theme=github_dark&hide=stars,issues"
+        media="(prefers-color-scheme: dark)"
+        />
+<source
+        srcset="https://github-readme-stats.vercel.app/api?username=tanzim2000&border_color=00000000&show_icons=true&count_private=true&theme=swift&hide=stars,issues"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=tanzim2000&show_icons=true&count_private=true&hide=stars,issues" />
+        />
+<img src="https://github-readme-stats.vercel.app/api?username=tanzim2000&border_color=00000000&show_icons=true&count_private=true&hide=stars,issues" />
 </picture>
+
+<!--- GitHub Status Panel --->
 <picture>
   <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzim2000&theme=github_dark&border_color=00000000"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzim2000&layout=compact&langs_count=10&theme=github_dark&border_color=00000000"
           media="(prefers-color-scheme: dark)"
           />
   <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzim2000&theme=github_dark&border_color=00000000"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzim2000&layout=compact&langs_count=10&theme=swift&border_color=00000000"
           media="(prefers-color-scheme: dark)"
           />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzim2000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzim2000&layout=compact&langs_count=10" />
 </picture>
+</div>
 
 <!---
 tanzim2000/tanzim2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
