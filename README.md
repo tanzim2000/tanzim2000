@@ -1,4 +1,4 @@
-<h1 align="center">Yo, It's Tanzim here!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+<h1 align="center">Greetings, It's Tanzim here!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 
 <div align = "right">
   <a href="https://github.com/tanzim2000">
@@ -6,15 +6,20 @@
   </a>
 </div>
 
-<!--- Currently studying Computer Programming at Algonquin College. As a highly skilled programmer with a focus on Java development, I am always seeking new opportunities to learn and grow as a developer. My passion for programming and my strong problem-solving skills have prepared me to make a valuable contribution to any project. In my previous experience, I have consistently demonstrated my ability to work collaboratively with cross-functional teams and to deliver high-quality results under tight deadlines. As a student, I am constantly seeking new challenges and ways to expand my knowledge and skills. I am excited to bring my passion and expertise to a dynamic team and to make a meaningful impact in the field of computer programming. --->
+<strong>Objective</strong>
+
+<!-- As a highly skilled programmer with a focus on Java development, my objective is to use my passion for problem-solving and my strong problem-solving skills to become a successful software engineer and a versatile programmer. I am always seeking new opportunities to learn and grow as a developer, and I am excited to bring my expertise to a dynamic team where I can make a meaningful impact in the field of computer programming. With my strong background in collaborative team environments and my ability to deliver high-quality results under tight deadlines, I am confident in my ability to succeed in this industry and contribute to the success of any project. --->
+<p>To establish a successful career as a software engineer and proficient programmer, utilizing my expertise in Java development and strong problem-solving skills to make significant contributions to the field. As a highly skilled individual with a passion for learning and growth, I am seeking opportunities to join a dynamic team where I can utilize my strong collaborative skills and ability to deliver high-quality results under tight deadlines to drive success and innovation.</p>
 
 <strong>About Me</strong>
-
+<!--- Currently studying Computer Programming at Algonquin College. As a highly skilled programmer with a focus on Java development, I am always seeking new opportunities to learn and grow as a developer. My passion for programming and my strong problem-solving skills have prepared me to make a valuable contribution to any project. In my previous experience, I have consistently demonstrated my ability to work collaboratively with cross-functional teams and to deliver high-quality results under tight deadlines. As a student, I am constantly seeking new challenges and ways to expand my knowledge and skills. I am excited to bring my passion and expertise to a dynamic team and to make a meaningful impact in the field of computer programming. --->
 - **Highly skilled Java programmer and current Computer Programming student at Algonquin College.**
 - Passionate about problem-solving and delivering efficient solutions.
 - Strong background in collaborative team environments.
 - Eager to take on new challenges and learn new skills.
 - **Seeking opportunities to contribute to a dynamic team and make a meaningful impact in the field.**
+
+<br>
 
 <table align="center" border="0"><tr><td> 
         <!--- GitHub Status Panel --->
@@ -70,6 +75,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" >
 </a>
 
+<!-- PHP -->
+<a href="#">
+  <img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white" alt="PHP" >
+</a>
+
 <!-- Linux -->
 <a href="#">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" >
@@ -113,9 +123,13 @@
 <a href="https://www.pinterest.com/yourusername#gh-light-mode-only">
   <img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white#gh-light-mode-only" alt="Follow me on Pinterest" >
 </a>
-<!-- Dark Mode -->
+<!-- Pinterest Dark Mode -->
 <a href="https://www.pinterest.com/yourusername#gh-dark-mode-only">
   <img src="https://img.shields.io/badge/Pinterest-ffffff?style=flat&logo=pinterest&logoColor=BD081C#gh-dark-mode-only" alt="Follow me on Pinterest" >
+</a>
+<!-- Gmail Dark Mode -->
+<a href="mailto:tanzimahmedsagar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=gmail&logoColor=D14836#gh-dark-mode-only" alt="Send me an email" >
 </a>
 
 
