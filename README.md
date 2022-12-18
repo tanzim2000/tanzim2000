@@ -16,6 +16,32 @@
 - Eager to take on new challenges and learn new skills.
 - **Seeking opportunities to contribute to a dynamic team and make a meaningful impact in the field.**
 
+<table align="center" border="0"><tr><td> 
+        <!--- GitHub Status Panel --->
+        <picture>
+                <source
+                        srcset="https://github-readme-stats.vercel.app/api?username=tanzim2000&border_color=00000000&show_icons=true&hide_title=true&count_private=true&theme=github_dark&hide=stars,issues"
+                        media="(prefers-color-scheme: dark)"
+                        />
+                <source
+                        srcset="https://github-readme-stats.vercel.app/api?username=tanzim2000&border_color=00000000&show_icons=true&hide_title=true&count_private=true&theme=swift&hide=stars,issues"
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                        />
+                <img src="https://github-readme-stats.vercel.app/api?username=tanzim2000&border_color=00000000&show_icons=true&count_private=true&hide_title=true&hide=stars,issues"/>
+        </picture></td><td>
+        <!--- Language Status Panel --->
+        <picture>
+                <source
+                        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzim2000&layout=compact&langs_count=10&theme=github_dark&border_color=00000000"
+                        media="(prefers-color-scheme: dark)"
+                        />
+                <source
+                        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzim2000&layout=compact&langs_count=10&theme=swift&border_color=00000000"
+                        media="(prefers-color-scheme: dark)"
+                        />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzim2000&layout=compact&langs_count=10"/>
+        </picture></td></tr>
+</table>
 
 <strong>Skills</strong>
 
@@ -74,34 +100,7 @@
   <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark badge" >
 </a>
 
-<table align="center" border="0"><tr><td> 
-        <!--- GitHub Status Panel --->
-        <picture>
-                <source
-                        srcset="https://github-readme-stats.vercel.app/api?username=tanzim2000&border_color=00000000&show_icons=true&count_private=true&theme=github_dark&hide=stars,issues"
-                        media="(prefers-color-scheme: dark)"
-                        />
-                <source
-                        srcset="https://github-readme-stats.vercel.app/api?username=tanzim2000&border_color=00000000&show_icons=true&count_private=true&theme=swift&hide=stars,issues"
-                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                        />
-                <img src="https://github-readme-stats.vercel.app/api?username=tanzim2000&border_color=00000000&show_icons=true&count_private=true&hide=stars,issues" />
-        </picture></td><td>
-        <!--- Language Status Panel --->
-        <picture>
-                <source
-                        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzim2000&layout=compact&langs_count=10&theme=github_dark&border_color=00000000"
-                        media="(prefers-color-scheme: dark)"
-                        />
-                <source
-                        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzim2000&layout=compact&langs_count=10&theme=swift&border_color=00000000"
-                        media="(prefers-color-scheme: dark)"
-                        />
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzim2000&layout=compact&langs_count=10" />
-        </picture></td></tr>
-</table>
-
-<!-- Social buttons -->
+<strong>Social</strong>
 <!-- LinkedIn Light Mode -->
 <a href="https://www.linkedin.com/in/tanzim2000#gh-light-mode-only">
   <img src="https://img.shields.io/badge/LinkedIn-4875B4?style=flat&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
