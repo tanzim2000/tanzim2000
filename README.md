@@ -18,15 +18,16 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=tanzim2000&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=tanzim2000&show_icons=true&count_private=true&theme=dark&hide=stars,issues&hide_border=true&theme=github_dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=tanzim2000&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=tanzim2000&show_icons=true&count_private=true&hide=stars,issues&hide_border=true&theme=swift"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=tanzim2000&show_icons=true&count_private=true&hide_border=true&hide=stars,issues" />
 </picture>
+
 <!---
 tanzim2000/tanzim2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
