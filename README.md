@@ -13,7 +13,7 @@
 
 <strong>About Me</strong>
 <!--- Currently studying Computer Programming at Algonquin College. As a highly skilled programmer with a focus on Java development, I am always seeking new opportunities to learn and grow as a developer. My passion for programming and my strong problem-solving skills have prepared me to make a valuable contribution to any project. In my previous experience, I have consistently demonstrated my ability to work collaboratively with cross-functional teams and to deliver high-quality results under tight deadlines. As a student, I am constantly seeking new challenges and ways to expand my knowledge and skills. I am excited to bring my passion and expertise to a dynamic team and to make a meaningful impact in the field of computer programming. --->
-- **Highly skilled Java programmer and current Computer Programming student at Algonquin College.**
+- **Highly skilled Java programmer and current Computer Programming student at [Algonquin College](https://www.algonquincollege.com/).**
 - Passionate about problem-solving and delivering efficient solutions.
 - Strong background in collaborative team environments.
 - Eager to take on new challenges and learn new skills.
@@ -51,57 +51,57 @@
 <strong>Skills</strong>
 
 <!-- Java -->
-<a href="#">
+<a href="https://www.java.com">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" >
 </a>
 
 <!-- COBOL -->
-<a href="#">
+<a href="https://developer.ibm.com/languages/cobol/">
   <img src="https://img.shields.io/badge/COBOL-ED9121?style=for-the-badge&logo=cobol&logoColor=white" alt="COBOL" >
 </a>
 
 <!-- JavaScript -->
-<a href="#">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" >
 </a>
 
 <!-- HTML5 -->
-<a href="#">
+<a href="https://html.spec.whatwg.org/multipage">
   <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" >
 </a>
 
 <!-- CSS3 -->
-<a href="#">
+<a href="https://www.w3.org/Style/CSS/Overview.en.html">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" >
 </a>
 
 <!-- PHP -->
-<a href="#">
+<a href="https://www.php.net/">
   <img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white" alt="PHP" >
 </a>
 
 <!-- Linux -->
-<a href="#">
+<a href="https://www.linux.com/what-is-linux/">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" >
 </a>
 
 <!-- MySQL -->
-<a href="#">
+<a href="https://www.mysql.com/">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" >
 </a>
 
 <!-- Git -->
-<a href="#">
+<a href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" >
 </a>
 
 <!-- PostgreSQL -->
-<a href="#">
+<a href="https://www.postgresql.org/">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL badge" >
 </a>
 
 <!-- Android -->
-<a href="#">
+<a href="https://www.android.com/intl/en_ca/what-is-android/">
   <img src="https://img.shields.io/badge/Android-A4C639?style=for-the-badge&logo=android&logoColor=white" alt="Android badge" >
 </a>
 
