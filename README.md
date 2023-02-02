@@ -50,6 +50,45 @@
 
 <strong>Badges</strong>
 
+<!-- Programming in Java -->
+<a href="https://www.credly.com/badges/35369fae-3c9e-4e44-bddf-514832d441b7">
+  <img src="https://images.credly.com/size/680x680/images/5e2a4097-63f9-40a6-b400-0ed4746f39fe/image.png" width="100" alt="Programming in Java">
+</a>
+
+<!-- Fundamentals of Agile Project Management -->
+<a href="https://www.credly.com/badges/fa8fdec8-7737-4e60-a62f-529f2ee8dbf9">
+  <img src="https://images.credly.com/size/680x680/images/2677386a-c65f-4d4d-89f2-5b0babbc77d2/KickoffAgileBadge.png" width="100" alt="Fundamentals of Agile Project Management">
+</a>
+
+<!-- Fundamentals of Waterfall Project Management -->
+<a href="https://www.credly.com/badges/e17d9821-8f43-4711-a5d8-b7d99a1588fd">
+  <img src="https://images.credly.com/size/680x680/images/4e17c028-2214-4d53-b03b-16d26219f9cf/KickoffWFBadge.png" width="100" alt="Fundamentals of Waterfall Project Management">
+</a>
+
+<!-- Introduction to Data Science -->
+<a href="https://www.credly.com/badges/83cfe98f-4da4-4f13-8426-2d49b4143202">
+  <img src="https://images.credly.com/size/680x680/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" width="100" alt="Introduction to Data Science">
+</a>
+
+<!-- Networking Essential -->
+<a href="https://www.credly.com/badges/be9fc65c-39e9-4c0f-bdcb-ed495d8e4383">
+  <img src="https://images.credly.com/size/680x680/images/d7f73336-9adb-4833-a602-761837a33ba3/NetworkingEssentials-01.png" width="100" alt="Networking Essential">
+</a>
+
+<!-- Intruduction to Cybersecurity -->
+<a href="https://www.credly.com/badges/4cb3ad2b-b76e-4971-ad16-055fae768f91">
+  <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" alt="Intruduction to Cybersecurity">
+</a>
+
+<!-- COBOL Programming with VSCode -->
+<a href="https://www.credly.com/badges/ca42a2f4-5e02-4e4e-9d78-457baeb62765">
+  <img src="https://images.credly.com/size/680x680/images/99d1b7ee-eef2-4c50-96c7-56b22ffaaac3/Cobol_Programming_with_VSCode.png" width="100" alt="COBOL Programming with VSCode">
+</a>
+
+<!-- Linux on LinuxONE -->
+<a href="https://www.credly.com/badges/8be04747-b976-4de3-a1d1-18d19cbdc27f">
+  <img src="https://images.credly.com/size/680x680/images/5f86515a-ca6d-4a24-8b99-0d9b278de6e9/image.png" width="100" alt="Networking Essential">
+</a>
 
 <strong>Skills</strong>
 
