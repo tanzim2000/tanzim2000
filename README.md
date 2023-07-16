@@ -62,7 +62,7 @@
 
 <!-- Fundamentals of Waterfall Project Management -->
 <a href="https://www.credly.com/badges/e17d9821-8f43-4711-a5d8-b7d99a1588fd">
-  <img src="https://images.credly.com/size/680x680/images/4e17c028-2214-4d53-b03b-16d26219f9cf/KickoffWFBadge.png" width="100" alt="Fundamentals of Waterfall Project Management">
+  <img src="https://images.credly.com/size/340x340/images/37f7183c-9a25-4c72-916d-0c21572f5875/image.png" width="100" alt="Fundamentals of Waterfall Project Management">
 </a>
 
 <!-- Introduction to Data Science -->
