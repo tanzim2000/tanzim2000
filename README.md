@@ -55,7 +55,7 @@
 
 <!-- COBOL Programming with VSCode -->
 <a href="https://www.credly.com/badges/ca42a2f4-5e02-4e4e-9d78-457baeb62765">
-  <img src="https://images.credly.com/size/680x680/images/99d1b7ee-eef2-4c50-96c7-56b22ffaaac3/Cobol_Programming_with_VSCode.png" width="100" alt="COBOL Programming with VSCode">
+  <img src="https://images.credly.com/images/e4bc9868-9e6f-45be-adc6-8e075dd4e23c/image.png" width="100" alt="COBOL Programming with VSCode">
 </a>
 
 <strong>Skills</strong>
