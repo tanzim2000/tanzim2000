@@ -58,11 +58,6 @@
   <img src="https://images.credly.com/size/680x680/images/99d1b7ee-eef2-4c50-96c7-56b22ffaaac3/Cobol_Programming_with_VSCode.png" width="100" alt="COBOL Programming with VSCode">
 </a>
 
-<!-- Linux on LinuxONE -->
-<a href="https://www.credly.com/badges/8be04747-b976-4de3-a1d1-18d19cbdc27f">
-  <img src="https://images.credly.com/size/680x680/images/5f86515a-ca6d-4a24-8b99-0d9b278de6e9/image.png" width="100" alt="Networking Essential">
-</a>
-
 <strong>Skills</strong>
 
 <!-- COBOL -->
