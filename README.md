@@ -8,7 +8,7 @@
 
 <strong>About Me</strong>
 
-- Computer Programming graduate from ⠀<a href="https://www.algonquincollege.com#gh-dark-mode-only"><img src="https://s7494.pcdn.co/acmarketing/wp-content/themes/algonquincollege2018/images/AC-Logo-White.png" width="150" alt="Algonquin College" ></a><a href="https://www.algonquincollege.com#gh-light-mode-only"><img src="https://bayviewyards.org/wp-content/uploads/2017/06/AC.png" width="150" alt="Algonquin College" ></a>
+- Computer Programmer, graduated from ⠀<a href="https://www.algonquincollege.com#gh-dark-mode-only"><img src="https://s7494.pcdn.co/acmarketing/wp-content/themes/algonquincollege2018/images/AC-Logo-White.png" width="150" alt="Algonquin College" ></a><a href="https://www.algonquincollege.com#gh-light-mode-only"><img src="https://bayviewyards.org/wp-content/uploads/2017/06/AC.png" width="150" alt="Algonquin College" ></a>
 - Born and raised in Dhaka, Bangladesh
 - Now based in Regina SK, Canada
 - Currently spending time playing PS5
